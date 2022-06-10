@@ -1,0 +1,12 @@
+C:\Users\Ruta805\source\repos\PruebaJoseMoya\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Ruta805\source\repos\PruebaJoseMoya\Models\bin\Debug\Models.dll
+C:\Users\Ruta805\source\repos\PruebaJoseMoya\Models\bin\Debug\Models.pdb
+C:\Users\Ruta805\source\repos\PruebaJoseMoya\Models\obj\Debug\Models.dll
+C:\Users\Ruta805\source\repos\PruebaJoseMoya\Models\obj\Debug\Models.pdb
+C:\Users\Ruta805\source\repos\PruebaJoseMoya\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Ruta805\Documents\PruebaLoyMarkJoseMoya\back-end\Models\bin\Debug\Models.dll
+C:\Users\Ruta805\Documents\PruebaLoyMarkJoseMoya\back-end\Models\bin\Debug\Models.pdb
+C:\Users\Ruta805\Documents\PruebaLoyMarkJoseMoya\back-end\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Ruta805\Documents\PruebaLoyMarkJoseMoya\back-end\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Ruta805\Documents\PruebaLoyMarkJoseMoya\back-end\Models\obj\Debug\Models.dll
+C:\Users\Ruta805\Documents\PruebaLoyMarkJoseMoya\back-end\Models\obj\Debug\Models.pdb

@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Models.Model.UsuariosModel>
+
+@{
+    ViewBag.Title = "ListaUsuarios";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lista de Usuarios</h2>
+
+<p>
+    @Html.ActionLink("Crear Usuario", "Create")
+</p>
+
+<table id="tablaUsuarios" class="cell-border">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>E-mail</th>
+            <th>Telefono</th>
+            <th>Pais</th>
+            <th>Recibe Informacion</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>    
+    <tfoot>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>E-mail</th>
+            <th>Telefono</th>
+            <th>Pais</th>
+            <th>Recibe Informacion</th>
+            <th></th>
+        </tr>
+    </tfoot>
+</table>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/general")
+    @Scripts.Render("~/bundles/usuarios")
+}
